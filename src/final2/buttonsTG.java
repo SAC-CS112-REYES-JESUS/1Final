@@ -8,7 +8,8 @@ import java.awt.event.ActionListener;
 import javax.swing.JButton;
 
 public class buttonsTG extends JButton implements ActionListener{
-	
+									//Implemements actionListner allowing it to use some of the assets of this abstract Class
+									// to change and modify.
 	
 	private String X,O;
 	private int click =1;
